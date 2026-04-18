@@ -1,4 +1,4 @@
-# BUAASE2025-团队项目-版本控制
+# BUAASE2026-团队项目-版本控制
 
 > “Your organization’s codebase is sustainable when you are able to change all of the things that you ought to change, safely, and can do so for the life of your codebase.”
 >
@@ -59,7 +59,7 @@
 
 #### `🚧Maintenance` 初始化代码仓库
 
-1. `Fork`（或在使用其他平台时 `Clone`）[GitHub 仓库](https://github.com/kuma-xx/BUAASE2025-TeamVersionControl) 或 [GitCode 仓库](https://gitcode.com/CodingNoBorder/BUAASE2025-TeamVersionControl)，初始化本团队的仓库；
+1. `Fork`（或在使用其他平台时 `Clone`）[GitHub 仓库](https://github.com/hanamikoji/BUAASE2026-TeamVersionControl) 或 [GitCode 仓库](https://gitcode.com/hanamikoji/BUAASE2026-TeamVersionControl)，初始化本团队的仓库；
 2. 设置代码仓库中成员的相关权限；
 3. 建立一个 `dev` 分支；
 4. 检出分支 `chore/init`；
