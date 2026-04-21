@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "content": "I would tell you a UDP joke, but you might not get it.",
+            "language": "English"
+        },
+        {
+            "content": "Why do Java developers wear glasses? Because they don't C#.",
+            "language": "English"
+        },
+        {
+            "content": "为什么程序员总喜欢把问题留到明天？因为他们觉得明天可以再 debug 一下。",
+            "language": "中文"
+        }
+    ]
+}
